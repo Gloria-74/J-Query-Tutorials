@@ -1,0 +1,46 @@
+.blue{
+    background-color: blue;
+}
+
+p.hide{
+    display: none;
+}
+
+.text {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+/* button {
+    background-color:cornflowerblue;
+    border-radius:8px;
+    cursor: pointer;
+    font-size: medium;
+    border: none;
+    padding: 15px 30px;
+    margin: 5px 10px;
+}
+
+button:hover {
+    background-color: white;
+    color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+}
+
+p.headline {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin: 10px 10px;
+    font-size: x-large;
+}
+
+p.headline:hover {
+    color: cornflowerblue;
+    font-weight: bold;
+} */
